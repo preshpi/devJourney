@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.logo{
+    font-family: 'Gambarino', serif;
+}
+
+body{
+font-family: 'Ranade', sans-serif;
+}
